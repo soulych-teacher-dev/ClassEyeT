@@ -83,7 +83,7 @@ Electron · React · TypeScript · Tailwind CSS
 
 **개발: 세명컴퓨터고등학교**
 
-문의·버그 제보는 Issues 에 등록해 주세요.
+문의·버그 제보는 [Issues](../../issues) 에 등록해 주세요.
 
 </div>
 
