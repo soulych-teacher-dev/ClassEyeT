@@ -80,7 +80,7 @@ Electron · React · TypeScript · Tailwind CSS
 
 <div align="center">
 
-**개발: 세명컴퓨터고등학교**
+**개발: 세명컴퓨터고등학교 교사 이창환**
 
 문의·버그 제보는 [Issues](../../issues) 에 등록해 주세요.
 
